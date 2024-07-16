@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA30293-2518-4F4D-BE34-42FFD2F035C3}|\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.vcxproj|C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BA30293-2518-4F4D-BE34-42FFD2F035C3}|\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.vcxproj|solutionrelative:\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp",
+              "DocumentMoniker": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp",
+              "RelativeDocumentMoniker": "\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp",
+              "ToolTip": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp",
+              "RelativeToolTip": "\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758\\\uD074\uB798\uC2A4_\uD568\uC218\uC678\uBD80\uC815\uC758.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T07:29:45.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

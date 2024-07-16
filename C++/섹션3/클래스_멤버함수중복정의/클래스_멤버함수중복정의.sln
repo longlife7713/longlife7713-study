@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "클래스_멤버함수중복정의", "클래스_멤버함수중복정의\클래스_멤버함수중복정의.vcxproj", "{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Debug|x64.ActiveCfg = Debug|x64
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Debug|x64.Build.0 = Debug|x64
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Debug|x86.Build.0 = Debug|Win32
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Release|x64.ActiveCfg = Release|x64
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Release|x64.Build.0 = Release|x64
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Release|x86.ActiveCfg = Release|Win32
+		{0AFCDC40-7D58-44E6-B99E-A17D08306EA9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9758296-D873-46AD-B095-75E3BDB76E0B}
+	EndGlobalSection
+EndGlobal

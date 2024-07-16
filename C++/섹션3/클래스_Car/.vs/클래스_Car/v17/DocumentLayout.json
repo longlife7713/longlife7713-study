@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8D294C-833E-4A12-B9F3-397BB3FBAD6A}|\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.vcxproj|C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF8D294C-833E-4A12-B9F3-397BB3FBAD6A}|\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.vcxproj|solutionrelative:\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD074\uB798\uC2A4_Car.cpp",
+              "DocumentMoniker": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp",
+              "RelativeDocumentMoniker": "\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp",
+              "ToolTip": "C:\\Users\\pinet\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD074\uB798\uC2A4\uC640\uAC1D\uCCB4\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp",
+              "RelativeToolTip": "\uD074\uB798\uC2A4_Car\\\uD074\uB798\uC2A4_Car.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T06:42:42.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
